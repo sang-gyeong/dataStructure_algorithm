@@ -17,16 +17,16 @@
 
 
 ### DataStructure
-- [ ] Array
-- [ ] List
-- [ ] ArrayList
+- [x] Array vs List
+- [x] ArrayList
 - [ ] LinkedList
+- [ ] Double-LinkedList
 - [ ] Stack
 - [ ] Queue
 - [ ] Tree
 - [ ] Heap
 - [ ] Trie
-- [ ] Hash(Set, Table)
+- [ ] Hash(Set, Table, Map)
 
 ### Algorithm
 - [ ] Sorting

@@ -19,9 +19,9 @@
 ### DataStructure
 - [x] Array vs List
 - [x] ArrayList
-- [ ] LinkedList
-- [ ] Double-LinkedList
-- [ ] Stack
+- [x] LinkedList
+- [x] Double-LinkedList
+- [x] Stack
 - [ ] Queue
 - [ ] Tree
 - [ ] Heap

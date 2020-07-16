@@ -22,7 +22,8 @@
 - [x] LinkedList
 - [x] Double-LinkedList
 - [x] Stack
-- [ ] Queue
+- [x] Queue
+- [x] Graph
 - [ ] Tree
 - [ ] Heap
 - [ ] Trie

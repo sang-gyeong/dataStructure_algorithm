@@ -25,9 +25,9 @@
 - [x] Queue
 - [x] Graph
 - [x] Tree
-- [ ] Heap
-- [ ] Trie
-- [ ] Hash(Set, Table, Map)
+- [x] Heap
+- [x] Trie
+- [x] HashTable
 
 ### Algorithm
 - [ ] Sorting
